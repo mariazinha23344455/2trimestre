@@ -11,11 +11,11 @@ var perguntas = [
 
             {
                 texto:"vai eliminar tarefas monotonas",
-                afirmação:""
+                afirmação:"Não o IA vai simplificar"
             },
             {
                 texto:"Vai tirar muitos empregos",
-                afirmação:""
+                afirmação:"Sim,depende da área se pode ser substituida por um IA"
             },
         ]
     },
@@ -24,11 +24,11 @@ var perguntas = [
         alternativas: [
  {
           Texto:"vai ser Maravilhoso",
-          afirmação:""
+          afirmação:"Sim ira ajudar em muitas tarefas"
  },
  {
            Texto:" vai ser Assustador",
-           afirmação:""
+           afirmação:"Sera assustador porque e algo novo "
 
  }
         ]
@@ -38,11 +38,11 @@ var perguntas = [
         alternativas: [
             {
             texto:"Não vejo problemas",
-            afirmação:""
+            afirmação:"depende o emprego "
             },
 {
           texto:  "É o fim dos empregos como conhecemos hoje",
-          afirmação:""
+          afirmação:"não sera o fim"
 },
         ]
     },
@@ -51,11 +51,11 @@ var perguntas = [
         alternativas: [
          { 
            texto:" vai ser Incrível",
-            afirmação:""
+            afirmação:"sim com base no alise de dados "
          },
            {
            texto: "vai ser Sinistro",
-afirmação:""
+afirmação:""afirmação:"não, sera algo novo "
            },
 
         ]
@@ -65,11 +65,11 @@ afirmação:""
         alternativas: [
 {
          texto:   "serà Surpreendente",
-         afirmação:"",
+         afirmação:"Acredito que sim",
 },
 {
            texto: "tera Mão de obra barata",
-           afirmação:"",
+           afirmação:"Nãosssssssss",
 },sss
         ]
     }
